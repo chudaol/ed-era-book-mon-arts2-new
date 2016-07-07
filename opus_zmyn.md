@@ -3,7 +3,14 @@
 1. [Опис ключових змін до проекту оновленої програми з мистецтва](#opus)
 2. [Детальна таблиця з коментарями до програм та зворотнім зв’язком модераторів](#table)
 
-
+<table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
+  <tr border="0" bordercolor="0">
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" height="150" width="200" src="3.jpg"/></div></td>
+    <td valign="bottom" border="0" bordercolor="0"><b>Гусєва Оксана Григорівна</b>
+    <br>
+<i>Викладач образотворчого мистецтва, модератор з мистецтва</i></td>
+  </tr>
+</table>
 
 #### Опис ключових змін до проекту оновленої  програми  з мистецтва {#opus}
 
